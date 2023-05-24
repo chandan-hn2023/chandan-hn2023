@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Azure Devops**
 
-- 💬 Ask me about **Java, Selenium, Azure Devops Manual testing**
+- 💬 Ask me about **Java, Selenium, Azure Devops, Manual testing**
 
 - 📫 How to reach me **chandanhn174@gmail.com**
 
